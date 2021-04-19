@@ -130,3 +130,12 @@ select {
     background: whitesmoke;
     color: #a166a3;
 }
+
+
+@media (max-width: 468px) {
+    
+    form input {
+        margin-left: 10px;
+        max-width: 300px;
+    }
+  }
